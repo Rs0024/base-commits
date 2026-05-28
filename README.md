@@ -6,3 +6,4 @@ Day 4 - Learned about gas optimization
 Day 5 - Studied Base ecosystem and dApps
 ## Day 6 - Practiced Solidity programming
 # Day 7 - Understanding blockchain transactions
+# Day 9 - Studied NFT standards ERC721
