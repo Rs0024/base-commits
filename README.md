@@ -8,3 +8,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 7 - Understanding blockchain transactions
 # Day 9 - Studied NFT standards ERC721
 # Day 8 - Researched DeFi protocols on Base
+# Day 10 - Learned about liquidity pools
