@@ -29,3 +29,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 28 - Understanding cross-chain bridges
 # Day 29 - Studied Base network architecture
 # Day 30 - Practiced modifier functions
+# Day 31 - Learned about staking mechanisms
