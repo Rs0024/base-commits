@@ -26,3 +26,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 25 - Practiced mapping in Solidity
 # Day 26 - Learned about flash loans
 # Day 27 - Explored yield farming strategies
+# Day 28 - Understanding cross-chain bridges
