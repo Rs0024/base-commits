@@ -93,3 +93,4 @@ Day 91 - Building on Base blockchain ecosystem
 Day 92 - Building on Base blockchain ecosystem
 Day 93 - Building on Base blockchain ecosystem
 Day 94 - Building on Base blockchain ecosystem
+Day 95 - Building on Base blockchain ecosystem
