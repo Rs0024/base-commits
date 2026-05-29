@@ -51,3 +51,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 50 - Successfully completed Base builder journey
 Day 51 - Building on Base blockchain ecosystem
 Day 52 - Building on Base blockchain ecosystem
+Day 53 - Building on Base blockchain ecosystem
