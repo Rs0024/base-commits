@@ -124,3 +124,4 @@ Day 120 - Building on Base blockchain ecosystem
 Day 121 - Building on Base blockchain ecosystem
 Day 122 - Building on Base blockchain ecosystem
 Day 123 - Building on Base blockchain ecosystem
+Day 124 - Building on Base blockchain ecosystem
