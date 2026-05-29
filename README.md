@@ -17,3 +17,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 16 - Learned about IPFS storage
 # Day 17 - Explored Base bridge mechanics
 # Day 18 - Understanding L2 rollup technology
+# Day 19 - Studied token economics
