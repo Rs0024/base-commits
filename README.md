@@ -80,3 +80,4 @@ Day 78 - Building on Base blockchain ecosystem
 Day 79 - Building on Base blockchain ecosystem
 Day 80 - Building on Base blockchain ecosystem
 Day 81 - Building on Base blockchain ecosystem
+Day 82 - Building on Base blockchain ecosystem
