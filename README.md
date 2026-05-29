@@ -23,3 +23,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 22 - Explored DAO governance models
 # Day 23 - Understanding oracle networks
 # Day 24 - Studied Chainlink price feeds
+# Day 25 - Practiced mapping in Solidity
