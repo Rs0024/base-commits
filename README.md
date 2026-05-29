@@ -13,3 +13,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 12 - Understanding wallet security
 # Day 13 - Practiced writing test cases
 # Day 14 - Deployed Counter contract on testnet
+# Day 15 - Studied Ethereum virtual machine
