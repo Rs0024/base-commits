@@ -16,3 +16,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 15 - Studied Ethereum virtual machine
 # Day 16 - Learned about IPFS storage
 # Day 17 - Explored Base bridge mechanics
+# Day 18 - Understanding L2 rollup technology
