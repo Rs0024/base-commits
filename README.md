@@ -24,3 +24,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 23 - Understanding oracle networks
 # Day 24 - Studied Chainlink price feeds
 # Day 25 - Practiced mapping in Solidity
+# Day 26 - Learned about flash loans
