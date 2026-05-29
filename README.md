@@ -27,3 +27,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 26 - Learned about flash loans
 # Day 27 - Explored yield farming strategies
 # Day 28 - Understanding cross-chain bridges
+# Day 29 - Studied Base network architecture
