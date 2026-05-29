@@ -20,3 +20,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 19 - Studied token economics
 # Day 20 - Practiced event logging in Solidity
 # Day 21 - Learned about multisig wallets
+# Day 22 - Explored DAO governance models
