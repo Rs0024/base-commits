@@ -1,0 +1,23 @@
+name: Auto Commits
+
+on:
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Make 50 commits
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          for i in $(seq 51 100); do
+            echo "Day $i - Building on Base blockchain ecosystem" >> README.md
+            git add README.md
+            git commit -m "Day $i - Base builder progress update"
+          done
+          git push
