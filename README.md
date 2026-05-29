@@ -21,3 +21,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 20 - Practiced event logging in Solidity
 # Day 21 - Learned about multisig wallets
 # Day 22 - Explored DAO governance models
+# Day 23 - Understanding oracle networks
