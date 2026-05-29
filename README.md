@@ -18,3 +18,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 17 - Explored Base bridge mechanics
 # Day 18 - Understanding L2 rollup technology
 # Day 19 - Studied token economics
+# Day 20 - Practiced event logging in Solidity
