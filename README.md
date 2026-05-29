@@ -41,3 +41,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 40 - Practiced events and emissions
 # Day 41 - Learned about token vesting
 # Day 42 - Explored decentralized exchanges
+# Day 43 - Understanding AMM algorithms
