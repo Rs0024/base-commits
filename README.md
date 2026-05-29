@@ -43,3 +43,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 42 - Explored decentralized exchanges
 # Day 43 - Understanding AMM algorithms
 # Day 44 - Studied liquidity mining
+# Day 45 - Practiced struct usage in Solidity
