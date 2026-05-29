@@ -56,3 +56,4 @@ Day 54 - Building on Base blockchain ecosystem
 Day 55 - Building on Base blockchain ecosystem
 Day 56 - Building on Base blockchain ecosystem
 Day 57 - Building on Base blockchain ecosystem
+Day 58 - Building on Base blockchain ecosystem
