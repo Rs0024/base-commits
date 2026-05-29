@@ -35,3 +35,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 34 - Studied upgradeable smart contracts
 # Day 35 - Practiced inheritance in Solidity
 # Day 36 - Learned about MEV protection
+# Day 37 - Explored Base block explorer
