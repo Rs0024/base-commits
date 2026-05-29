@@ -11,3 +11,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 10 - Learned about liquidity pools
 # Day 11 - Explored Uniswap V3 mechanics
 # Day 12 - Understanding wallet security
+# Day 13 - Practiced writing test cases
