@@ -45,3 +45,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 44 - Studied liquidity mining
 # Day 45 - Practiced struct usage in Solidity
 # Day 46 - Learned about permit signatures
+# Day 47 - Explored Base ecosystem grants
