@@ -112,3 +112,4 @@ Day 108 - Building on Base blockchain ecosystem
 Day 109 - Building on Base blockchain ecosystem
 Day 110 - Building on Base blockchain ecosystem
 Day 111 - Building on Base blockchain ecosystem
+Day 112 - Building on Base blockchain ecosystem
