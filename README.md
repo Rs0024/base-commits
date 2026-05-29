@@ -30,3 +30,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 29 - Studied Base network architecture
 # Day 30 - Practiced modifier functions
 # Day 31 - Learned about staking mechanisms
+# Day 32 - Explored ERC1155 token standard
