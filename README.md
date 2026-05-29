@@ -14,3 +14,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 13 - Practiced writing test cases
 # Day 14 - Deployed Counter contract on testnet
 # Day 15 - Studied Ethereum virtual machine
+# Day 16 - Learned about IPFS storage
