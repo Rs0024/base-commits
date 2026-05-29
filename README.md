@@ -37,3 +37,4 @@ Day 5 - Studied Base ecosystem and dApps
 # Day 36 - Learned about MEV protection
 # Day 37 - Explored Base block explorer
 # Day 38 - Understanding gas estimation
+# Day 39 - Studied smart contract auditing
